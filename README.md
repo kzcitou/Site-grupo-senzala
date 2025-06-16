@@ -30,34 +30,32 @@ Projeto desenvolvido para o grupo de pagode **Senzala**, com foco na divulgaçã
 ## 📁 Estrutura do Projeto
 
 Site-senzala/
-│
 ├── app.py
-├── .env        
+├── .env # (não incluso no repositório)
 ├── agenda.json
 ├── clipes.json
 ├── mensagens.json
 ├── musicas.json
+├── README.md
 │
 ├── static/
-│   ├── css/
-│   │   └── style.css
-│   ├── js/
-│   │   └── script.js
-│   └── img/
+│ ├── css/
+│ │ └── style.css
+│ ├── js/
+│ │ └── script.js
+│ └── img/
 │
 ├── templates/
-│   ├── index.html
-│   ├── dashboard.html
-│   ├── login.html
-│   ├── loginadmin.html
-│   ├── contato.html
-│   ├── agenda.html
-│   ├── musicas.html
-│   ├── clipes.html
-│   ├── adicionar_musica.html
-│   └── adicionar_clipe.html
-│   └── mensagens.html
-│
-└── README.md
+│ ├── index.html
+│ ├── dashboard.html
+│ ├── login.html
+│ ├── loginadmin.html
+│ ├── contato.html
+│ ├── agenda.html
+│ ├── musicas.html
+│ ├── clipes.html
+│ ├── adicionar_musica.html
+│ ├── adicionar_clipe.html
+│ └── mensagens.html
 
 # Feito com ajuda de IA
